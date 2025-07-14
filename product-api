@@ -11,10 +11,12 @@
     "category": "Electronices",
     "color": ["Titanium Black"],
     "modelName": "Galaxy S24 Ultra 5G",
-    "subImage": ["https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/q/k/-original-imagx9pff4gxepfy.jpeg?q=70&crop=false", 
-"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/f/y/-original-imagx9pf7dd5ny7n.jpeg?q=70&crop=false",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/x/0/z/-original-imagx9pghjasnh75.jpeg?q=70&crop=false",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/c/c/-original-imagx9egf2vuraf3.jpeg?q=70&crop=false"]
+    "subImage": [
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/q/k/-original-imagx9pff4gxepfy.jpeg?q=70", 
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/f/y/-original-imagx9pf7dd5ny7n.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/x/0/z/-original-imagx9pghjasnh75.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/c/c/-original-imagx9egf2vuraf3.jpeg?q=70"
+    ]
   },
   {
     "_id": 2,
@@ -29,57 +31,63 @@
     "color": ["Black Titanium"],
     "modelName": "iPhone 16 Pro Max",
     "subImage": [
-      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/1/c/-original-imahb4mudzkcggyh.jpeg?q=70&crop=false",
-      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/7/e/-original-imahb4mumpgykgqe.jpeg?q=70&crop=false",
-      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/j/f/-original-imah4jywzggxndyg.jpeg?q=70&crop=false"
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/1/c/-original-imahb4mudzkcggyh.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/7/e/-original-imahb4mumpgykgqe.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/j/f/-original-imah4jywzggxndyg.jpeg?q=70"
     ]
   },
   {
     "_id": 3,
-    "title": "Sony WH-1000XM5 Wireless Headphones",
-    "des": "Industry-leading noise cancellation and up to 30 hours of battery life. Premium black finish with soft ear cushions for long use.",
-    "oldPrice": "34,999",
-    "price": "27,990",
+    "title": "SONY WH-1000XM4 Bluetooth Gaming",
+    "des": "You can enjoy an optimised listening experience with the Sony WH-1000XM4 Bluetooth Headphones. With their Digital Noise Cancellation, these headphones allow you to clearly hear every tune, note, and word with clarity despite your surroundings. Additionally, incorporating Dual Noise Sensor technology and featuring up to two microphones on each earcup, these headphones effectively capture ambient sounds and transmit the data to the HD Noise Cancelling Processor QN1. Also, these headphones provide enhanced call quality through their incorporation of up to five inbuilt microphones and sophisticated audio signal processing technology.",
+    "oldPrice": "29,999",
+    "price": "19,890",
     "brand": "Sony",
-    "image": "https://rukminim2.flixcart.com/image/832/832/kxrvi4w0/headphone/k/5/a/wh-1000xm5-sony-original-imaga9ftgexgkkag.jpeg?q=70",
+    "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/t/0/c/-original-imah28h3qdnerykz.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Black"],
+    "color": ["Silver"],
     "modelName": "WH-1000XM5",
     "subImage": [
-      "https://rukminim2.flixcart.com/image/832/832/kxrvi4w0/headphone/a/f/t/wh-1000xm5-sony-original-imaga9ftdshc4d5g.jpeg?q=70"
+      "https://rukminim2.flixcart.com/image/832/832/l1dwknk0/headphone/u/b/h/wh-1000xm4-sony-original-imagcywfw6zh4weq.jpeg?q=70",
+"https://rukminim2.flixcart.com/image/832/832/l1dwknk0/headphone/o/k/s/wh-1000xm4-sony-original-imagcywfbvzqn5ba.jpeg?q=70",
+"https://rukminim2.flixcart.com/image/832/832/l1dwknk0/headphone/i/a/3/wh-1000xm4-sony-original-imagcywfqqenhhxb.jpeg?q=70"
     ]
   },
   {
     "_id": 4,
-    "title": "Dell XPS 13 Plus Laptop",
-    "des": "Powerful Intel Core i7 12th Gen processor in a sleek black design. Features a borderless display and invisible touchpad.",
-    "oldPrice": "1,89,990",
-    "price": "1,59,999",
+    "title": DELL G15 Laptop",
+    "des": "DELL G15 Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4060/165 Hz) 5530 Gaming Laptop  (15.6 Inch, Dark Shadow Gray With Black Thermal Shelf, 2.65 Kg, With MS Office).,
+    "oldPrice": "1,98,990",
+    "price": "1,81,999",
     "brand": "Dell",
-    "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/h/s/t/-original-imagufyyzkhczzjg.jpeg?q=70",
+    "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/g/8/c/-original-imahcnjyj3zupmfg.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
     "color": ["Black"],
     "modelName": "XPS 13 Plus",
     "subImage": [
-      "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/m/f/v/-original-imagufyyg6gnnmyr.jpeg?q=70"
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/r/w/z/-original-imahcnjyc6dkqbw9.jpeg?q=70",
+"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/e/t/f/g15-5530-gaming-laptop-dell-original-imah8hhzjqbhsjnj.jpeg?q=70",
+"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/c/v/d/g15-5530-gaming-laptop-dell-original-imah8hhzbxku4gmb.jpeg?q=70"
     ]
   },
   {
     "_id": 5,
-    "title": "boAt Airdopes 141 ANC",
-    "des": "True wireless earbuds with up to 32dB active noise cancellation. Long battery life with ASAP charge and ENx tech.",
-    "oldPrice": "4,999",
-    "price": "1,399",
+    "title": "boAt Nirvana ION ANC Pro w/ Hi-Res Audio with LDAC, ANC, 120 HRS Playback, MultiPoint Bluetooth",
+    "des": "Welcome enhanced audio as these earbuds come with Hi-Res Audio for an immersive experience, True wireless earbuds with up to 32dB active noise cancellation. Long battery life with ASAP charge and ENx tech.",
+    "oldPrice": "13,999",
+    "price": "1,999",
     "brand": "boAt",
-    "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/y/k/5/-original-imagyxgr7zgyzh3g.jpeg?q=70",
+    "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/g/h/k/-original-imah5vq5gzkeh5uk.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Bold Black"],
-    "modelName": "Airdopes 141 ANC",
+    "color": ["Rose Quartz"],
+    "modelName": "Ion ANC Pro",
     "subImage": [
-      "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/s/x/l/-original-imagyxgrnhr4adfs.jpeg?q=70"
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/g/x/s/-original-imah7gb7tkrbwwws.jpeg?q=70",
+"https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/v/3/2/-original-imahby5vjsz6vczj.jpeg?q=70",
+"https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/e/l/f/-original-imahby5vrcdezwse.jpeg?q=70"
     ]
   },
   {
