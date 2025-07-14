@@ -9,10 +9,12 @@
     "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/y/e/8/-original-imahyvntxfrpuw6g.jpeg?q=70",
     "isNew": true,
     "category": "Electronices",
-    "color": ["Titanium Black"],
+    "color": [
+      "Titanium Black"
+    ],
     "modelName": "Galaxy S24 Ultra 5G",
     "subImage": [
-      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/q/k/-original-imagx9pff4gxepfy.jpeg?q=70", 
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/t/q/k/-original-imagx9pff4gxepfy.jpeg?q=70",
       "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/r/f/y/-original-imagx9pf7dd5ny7n.jpeg?q=70",
       "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/x/0/z/-original-imagx9pghjasnh75.jpeg?q=70",
       "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/w/c/c/-original-imagx9egf2vuraf3.jpeg?q=70"
@@ -28,7 +30,9 @@
     "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/y/m/i/-original-imah4jz66pzdzy4z.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Black Titanium"],
+    "color": [
+      "Black Titanium"
+    ],
     "modelName": "iPhone 16 Pro Max",
     "subImage": [
       "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/0/1/c/-original-imahb4mudzkcggyh.jpeg?q=70",
@@ -46,30 +50,34 @@
     "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/t/0/c/-original-imah28h3qdnerykz.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Silver"],
+    "color": [
+      "Silver"
+    ],
     "modelName": "WH-1000XM5",
     "subImage": [
       "https://rukminim2.flixcart.com/image/832/832/l1dwknk0/headphone/u/b/h/wh-1000xm4-sony-original-imagcywfw6zh4weq.jpeg?q=70",
-"https://rukminim2.flixcart.com/image/832/832/l1dwknk0/headphone/o/k/s/wh-1000xm4-sony-original-imagcywfbvzqn5ba.jpeg?q=70",
-"https://rukminim2.flixcart.com/image/832/832/l1dwknk0/headphone/i/a/3/wh-1000xm4-sony-original-imagcywfqqenhhxb.jpeg?q=70"
+      "https://rukminim2.flixcart.com/image/832/832/l1dwknk0/headphone/o/k/s/wh-1000xm4-sony-original-imagcywfbvzqn5ba.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/l1dwknk0/headphone/i/a/3/wh-1000xm4-sony-original-imagcywfqqenhhxb.jpeg?q=70"
     ]
   },
   {
     "_id": 4,
     "title": "DELL G15 Laptop",
-    "des": "DELL G15 Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4060/165 Hz) 5530 Gaming Laptop  (15.6 Inch, Dark Shadow Gray With Black Thermal Shelf, 2.65 Kg, With MS Office).,
+    "des": "DELL G15 Intel Core i9 13th Gen 13900HX - (16 GB/1 TB SSD/Windows 11 Home/8 GB Graphics/NVIDIA GeForce RTX 4060/165 Hz) 5530 Gaming Laptop  (15.6 Inch, Dark Shadow Gray With Black Thermal Shelf, 2.65 Kg, With MS Office).",
     "oldPrice": "1,98,990",
     "price": "1,81,999",
     "brand": "Dell",
     "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/g/8/c/-original-imahcnjyj3zupmfg.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "XPS 13 Plus",
     "subImage": [
       "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/r/w/z/-original-imahcnjyc6dkqbw9.jpeg?q=70",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/e/t/f/g15-5530-gaming-laptop-dell-original-imah8hhzjqbhsjnj.jpeg?q=70",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/computer/c/v/d/g15-5530-gaming-laptop-dell-original-imah8hhzbxku4gmb.jpeg?q=70"
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/e/t/f/g15-5530-gaming-laptop-dell-original-imah8hhzjqbhsjnj.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/c/v/d/g15-5530-gaming-laptop-dell-original-imah8hhzbxku4gmb.jpeg?q=70"
     ]
   },
   {
@@ -82,12 +90,14 @@
     "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/g/h/k/-original-imah5vq5gzkeh5uk.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Rose Quartz"],
+    "color": [
+      "Rose Quartz"
+    ],
     "modelName": "Ion ANC Pro",
     "subImage": [
       "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/g/x/s/-original-imah7gb7tkrbwwws.jpeg?q=70",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/v/3/2/-original-imahby5vjsz6vczj.jpeg?q=70",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/e/l/f/-original-imahby5vrcdezwse.jpeg?q=70"
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/v/3/2/-original-imahby5vjsz6vczj.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/headphone/e/l/f/-original-imahby5vrcdezwse.jpeg?q=70"
     ]
   },
   {
@@ -100,7 +110,9 @@
     "image": "https://rukminim2.flixcart.com/image/832/832/l5fnhjk0/dslr-camera/f/t/m/eos-r10-24-2-r10-canon-original-imagg42fsbgv79da.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "EOS R10",
     "subImage": [
       "https://rukminim2.flixcart.com/image/832/832/l5fnhjk0/dslr-camera/2/c/q/eos-r10-24-2-r10-canon-original-imagg42fgrgstzks.jpeg?q=70",
@@ -118,12 +130,14 @@
     "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/6/z/x/nord-ce4-cph2613-oneplus-original-imagzn8vddauqjhx.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Celadon Marble"],
+    "color": [
+      "Celadon Marble"
+    ],
     "modelName": "Nord CE 4 5G",
     "subImage": [
       "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/h/l/g/nord-ce4-cph2613-oneplus-original-imagzn8vbj5bfnzf.jpeg?q=70",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/n/q/nord-ce4-cph2613-oneplus-original-imagznc5zjxkyjx2.jpeg?q=70",
-"https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/7/q/nord-ce4-cph2613-oneplus-original-imagzn8vc4xakydq.jpeg?q=70"
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/u/n/q/nord-ce4-cph2613-oneplus-original-imagznc5zjxkyjx2.jpeg?q=70",
+      "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/q/7/q/nord-ce4-cph2613-oneplus-original-imagzn8vc4xakydq.jpeg?q=70"
     ]
   },
   {
@@ -136,7 +150,9 @@
     "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/r/f/l/-original-imahcd9jeht8agfp.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Nightfall Black"],
+    "color": [
+      "Nightfall Black"
+    ],
     "modelName": "Envy x360",
     "subImage": [
       "https://rukminim2.flixcart.com/image/832/832/xif0q/computer/e/m/0/-original-imahcd9jhy2vczdh.jpeg?q=70",
@@ -146,16 +162,18 @@
   },
   {
     "_id": 9,
-    "title": "JBL Bar 1300 True Dolby Atmos with,DTS:X,MultiBeam,10" Subwoofer,HDMI 1170 W Bluetooth Soundbar",
-    "des": "Powerful JBL Bar 1300 True Dolby Atmos with DTS:X,MultiBeam,10" Subwoofer,HDMI 1170 W Bluetooth Soundbar, IPX4 splashproof build and portable black design. Great for any celebration. 1 Soundbar, Pair of Detachable Wireless Surround Speakers, Wireless Subwoofer, Remote Control, Power Cords, HDMI Cable, Quick Start Guide, Safety Instruction, Warranty Card, Wall Mount Template, 2 L-shape Wall-mount Bracket, U-shape Wall-mount Bracket Kit with Screws, Side Caps, Batteries",
+    "title": "JBL Bar 1300 True Dolby Atmos with,DTS:X,MultiBeam,10 Subwoofer,HDMI 1170 W Bluetooth Soundbar",
+    "des": "Powerful JBL Bar 1300 True Dolby Atmos with DTS:X,MultiBeam,10 Subwoofer,HDMI 1170 W Bluetooth Soundbar, IPX4 splashproof build and portable black design. Great for any celebration. 1 Soundbar, Pair of Detachable Wireless Surround Speakers, Wireless Subwoofer, Remote Control, Power Cords, HDMI Cable, Quick Start Guide, Safety Instruction, Warranty Card, Wall Mount Template, 2 L-shape Wall-mount Bracket, U-shape Wall-mount Bracket Kit with Screws, Side Caps, Batteries",
     "oldPrice": "1,59,999",
     "price": "99,999",
     "brand": "JBL",
     "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/9/i/v/-original-imagtmcwc5rwzhzg.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Black"],
-    "modelName": "Bar 1300 True Dolby Atmos with,DTS:X,MultiBeam,10" Subwoofer,HDMI",
+    "color": [
+      "Black"
+    ],
+    "modelName": "Bar 1300 True Dolby Atmos with,DTS:X,MultiBeam,10 Subwoofer,HDMI",
     "subImage": [
       "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/b/a/x/-original-imags9j5q6nqfj9z.jpeg?q=70",
       "https://rukminim2.flixcart.com/image/832/832/xif0q/speaker/f/n/x/-original-imags9j5ryfjmzhz.jpeg?q=70",
@@ -172,7 +190,9 @@
     "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/television/u/v/o/-original-imah2v2gamua43wz.jpeg?q=70",
     "isNew": true,
     "category": "Electronics",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "Crystal 4K Vision Pro UA43DUE76AKLXL",
     "subImage": [
       "https://rukminim2.flixcart.com/image/832/832/xif0q/television/k/i/u/-original-imah3fhyk8y76v8p.jpeg?q=70",
@@ -190,7 +210,9 @@
     "image": "https://m.media-amazon.com/images/I/71up2S3noCL._SX679_.jpg",
     "isNew": true,
     "category": "Office Bag",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "ExecPro Leather 15.6”",
     "subImage": [
       "https://m.media-amazon.com/images/I/71bl1pNLaDL._SX679_.jpg"
@@ -206,7 +228,9 @@
     "image": "https://m.media-amazon.com/images/I/61D7nJZC3ZL._SX679_.jpg",
     "isNew": true,
     "category": "Men Shirt",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "SlimFit Cotton",
     "subImage": [
       "https://m.media-amazon.com/images/I/61fdr8fPq+L._SX679_.jpg"
@@ -222,7 +246,9 @@
     "image": "https://m.media-amazon.com/images/I/61KuQZCzkuL._SY741_.jpg",
     "isNew": true,
     "category": "Women Pants",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "Stretch Fit Trousers",
     "subImage": [
       "https://m.media-amazon.com/images/I/71e5NHk8jqL._SY741_.jpg"
@@ -238,7 +264,9 @@
     "image": "https://m.media-amazon.com/images/I/51R0xP+pdIL._SX679_.jpg",
     "isNew": true,
     "category": "Glasses",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "Classic Round UV",
     "subImage": [
       "https://m.media-amazon.com/images/I/51M3JNS2JxL._SX679_.jpg"
@@ -254,7 +282,9 @@
     "image": "https://m.media-amazon.com/images/I/71abP+CfKpL._SY741_.jpg",
     "isNew": true,
     "category": "Men T-shirt",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "Relaxed Cotton Tee",
     "subImage": [
       "https://m.media-amazon.com/images/I/71cJzTI3AlL._SY741_.jpg"
@@ -270,7 +300,9 @@
     "image": "https://m.media-amazon.com/images/I/61aU8gM2p5L._SY741_.jpg",
     "isNew": true,
     "category": "Women Jacket",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "Denim Classic Cut",
     "subImage": [
       "https://m.media-amazon.com/images/I/61ePKT55HzL._SY741_.jpg"
@@ -286,7 +318,9 @@
     "image": "https://m.media-amazon.com/images/I/71qzEGN9OUL._SY741_.jpg",
     "isNew": true,
     "category": "Men Watch",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "Timex Classic",
     "subImage": [
       "https://m.media-amazon.com/images/I/71iIEgqDtUL._SY741_.jpg"
@@ -302,7 +336,9 @@
     "image": "https://m.media-amazon.com/images/I/71Af5vlHL0L._SY741_.jpg",
     "isNew": true,
     "category": "Women T-shirt",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "Shimmer Party Tee",
     "subImage": [
       "https://m.media-amazon.com/images/I/71KIfAhxk0L._SY741_.jpg"
@@ -318,7 +354,9 @@
     "image": "https://m.media-amazon.com/images/I/718xHzHsS4L._SY741_.jpg",
     "isNew": true,
     "category": "Men Jacket",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "Winter Bomber",
     "subImage": [
       "https://m.media-amazon.com/images/I/71rBtRuXb2L._SY741_.jpg"
@@ -334,7 +372,9 @@
     "image": "https://m.media-amazon.com/images/I/81aHTD2Ma+L._SY741_.jpg",
     "isNew": true,
     "category": "Women Watch",
-    "color": ["Black"],
+    "color": [
+      "Black"
+    ],
     "modelName": "Raga Black Elegance",
     "subImage": [
       "https://m.media-amazon.com/images/I/813ZbQYAWaL._SY741_.jpg"
